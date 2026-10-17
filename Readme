@@ -1,0 +1,18 @@
+# Python Fundamentals Practice
+
+This repository contains my Python practice as I learn programming for AI/ML engineering.
+
+## Topics Covered
+- Python variables and data types
+- Lists and indexing
+- List length using `len()`
+- Adding elements using `append()` and `insert()`
+- Removing elements using `remove()` and `pop()`
+- Sorting lists using `sort()`
+- Reversing lists using `reverse()`
+
+## Goal
+To strengthen my Python fundamentals before learning NumPy, Pandas, and Machine Learning.
+
+## Language
+Python
